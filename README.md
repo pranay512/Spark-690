@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+Vist to our Publicly available website to checkout the [Airline Financial Economics Dashboard](https://airline-dashboard-chi.vercel.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with Vite[https://vite.dev/].
 
 ## Available Scripts
 
