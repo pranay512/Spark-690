@@ -1,4 +1,4 @@
-Vist to our Publicly available website to checkout the [Airline Financial Economics Dashboard](https://airline-dashboard-chi.vercel.app/)
+Vist to our Publicly available website to checkout the [Airline Financial Economics Dashboard](https://www.airfineco.com/)
 
 This project was made with Vite[https://vite.dev/].
 
